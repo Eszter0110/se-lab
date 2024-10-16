@@ -27,7 +27,7 @@ public class TorpedoStore {
       }
     }
   }
-
+//(= sikerult yeey
   private Random generator = new Random();
 
   public boolean fire(int numberOfTorpedos){
